@@ -1,4 +1,5 @@
-//1.
+// homework 1
+//1. 
 function FizBuz() {
   for (let i = 1; i <= 10; i++) {
     if(i % 3 === 0) {
